@@ -1,2 +1,2 @@
 # GPT-2-Architecture-Implementation-Pre-training
-Learn from Wayland Zhang
+Learn from Wayland
